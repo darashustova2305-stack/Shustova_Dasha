@@ -1,7 +1,7 @@
 ﻿Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("ВИЗИТКА СИСТЕМЫ");
 Console.ResetColor();
-string studentName = "Sasha";
+string studentName = "Dasha";
 string studentGroup = "ПМБ-261";
 string favLanguage = "С#";
 string codingYears = "0";
